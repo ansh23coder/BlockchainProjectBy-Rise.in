@@ -1,4 +1,4 @@
-# Blockchain Resume
+# Blockchain - Resume Project
 
 ## Project Description
 A decentralized resume system that stores professional information like skills, experience, and education on-chain using the Soroban smart contract platform. Each resume is tied to a unique blockchain address.
